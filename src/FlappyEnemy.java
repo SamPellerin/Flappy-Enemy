@@ -1,5 +1,5 @@
-// Authors: Laurent Mercier (20150219) and Samuel Pellerin (20265497).
-// Date: April 26th, 2024.
+// Authors: Samuel Pellerin 
+// Date: April 26th, 2024
 //
 // This program is a "Flappy Bird" style game, where you control the enemy and fight heroes for coins.
 // You can jump with the space key and shoot heroes with the e key. The goal of the game is to accumulate
